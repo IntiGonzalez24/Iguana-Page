@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+}
+
+header{
+    background-color: black;
+    margin: auto;
+    width: 1280px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+   
+}
+h1{
+    color: #FFFFFF;
+    font-size: 50px;
+    margin:7px 529px 7px 530px;
+}
+main{
+    width: 1280px;
+    display: flex;
+   margin: auto;
+   justify-content: center;
+    
+}
+img{
+   width: 1280px;
+   height: 727px;
+  
+
+}
+.img2{
+    width: 399px;
+    height: 237px;
+}
+.containerUno{
+    
+    margin: auto;
+
+    width: 1280px;
+    height: 348px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+p{
+    color: #FFFFFF;
+    width: 475px;
+    height: 197px;
+    text-align: justify;
+   
+    font-size: 16px;
+}
+.parrafo{
+    width: 731px;
+    margin: 76px 0 75px 150px;
+    font: normal normal 300 16px/19px Raleway;
+}
+.articuloImg{
+    width: 549px;
+    margin: 45px 150px 66px 0;
+}
+.containerDos{
+    margin: auto;
+    
+    width: 1280px;
+    height: 348px;
+   
+    background-color: #1E1A13;
+    display: flex;
+    flex-direction: column;
+}
+.titulo{
+    width: 356px;
+    height: 47px;
+    color: #FFFFFF;
+    text-align: center;
+   
+    margin: 75px 460.5px 0 463.5px;
+    font-size: 24px;
+    font: normal normal medium 40px/47px Raleway;
+   
+    
+    
+}
+.titulo h2{
+    font-size: 40px;
+}
+
+.iconos{
+    width: 736px;
+    margin-left: 301px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    font-size: 25px;
+    
+    margin-top: 50px;
+}
+.ojo > i{
+    
+    padding-left: 40px;
+    font-size: 45px;
+    padding-bottom: 16px;
+    
+}
+.paz > i{
+    padding-left: 30px;
+    font-size: 45px;
+    padding-bottom: 16px;
+}
+.color > i{
+    padding-left: 67px;
+    font-size: 45px;
+    padding-bottom: 16px;
+    
+}
+h3{
+    font: normal normal 300 24px/29px Raleway;
+}
+.containerTres{
+    margin: auto;
+    width: 1280px;
+    height: 348px;
+    background-color: black;
+    display: flex;
+    
+    
+    
+}
+.imagenes{
+    
+    display: flex;
+  flex-wrap: wrap;
+  gap: 0 16px;
+    margin: 73px 150px 73px 150px;
+
+   
+    
+}
+.galeria{
+    width: 316px;
+    height: 202px;
+    
+    
+    
+   
+
+}
+
+
+footer{
+    margin: auto;
+    background-color: #1E1A13;
+    width: 1280px;
+    height: 102px;
+    display: flex;
+}
+footer > h2{
+    width: 682px;
+    
+    font:normal normal 300 16px/19px Raleway;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 39px 299px 39px 299px;
+    font-size: 18.5px;
+    
+    
+}
